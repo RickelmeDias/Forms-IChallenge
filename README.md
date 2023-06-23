@@ -18,7 +18,7 @@ When running the back-end (Symfony) you can access the documentation on `http://
 
 You should see this docs:
 
-![Documentation](./Images/app_symfony_docs.png)
+<img src="./Images/app_symfony_docs.png" width=500/>
 
 After run the back-end you can run the front-end and create accounts, **is important you create the database using the back-end readme informations.**
 
@@ -27,12 +27,13 @@ All working well, you can access the frontend.
 When running the front-end (Vue) you can access the website on `http://localhost:8080/`:
 
 You should see this screen:
-<img src="./Images/front_vue_forms.png" />
+
+<img src="./Images/front_vue_forms.png" width=300/>
 
 Want to see the validations? Open details below:
 
 <details>
-<img src="./Images/front_vue_forms_incorrect.png" />
+<img src="./Images/front_vue_forms_incorrect.png" width=300 />
 </details>
 
 ## Acknowledgment
