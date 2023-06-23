@@ -1,31 +1,40 @@
-## Symfony + Vue (Back/Front)
-### Helped and assisted by Vanessa and Paulo.
-<hr>
-<p>This project have two sides, the back-end(Symfony) and the front-end(Vue.js) for a challenge.</p>
-<p>The challenge is uses these technologies to create accounts on database.</p>
-<p>To test this project is necessary to run the back-end (Back-end) and the front-end (Front-end)</p>
+# Web Developer Formss Challenge (Symfony + Vue)
+Helped and assisted by [Vanessa Trentin from Auryn](https://github.com/vanessatrentin) and [Paulo Trentin from Auryn](https://github.com/paulopmt1).
+
+## About Challenge
+
+This challenge was developed based on some requirements:
+- Develop Full-Stack of a form to register an account using the technologies below:
+  - Back-End: Symfony (Php);
+  - Front-End: Vue.js (Javascript);
+  - PostgreSQL;
+  - Docker (The configured docker was delivered by Paulo to do the technical challenge).
+
+The project also have validation in the forms and a documentation written by me.
+
+## Getting Started
 
 When running the back-end (Symfony) you can access the documentation on `http://localhost:9090/`
 
-<p>You should see this docs:</p>
-<img src="./Images/app_symfony_docs.png" />
+You should see this docs:
 
-<br><hr><br>
+![Documentation](./Images/app_symfony_docs.png)
 
-<p>After run the back-end you can run the front-end and create accounts, <strong>is important you create the database using the back-end readme informations.</strong></p>
-<p>All working well, you can access the frontend</p>
+After run the back-end you can run the front-end and create accounts, **is important you create the database using the back-end readme informations.**
 
-When running the front-end (Vue) you can access the website on `http://localhost:8080/`
+All working well, you can access the frontend.
 
-<p>You should see this screen:</p>
+When running the front-end (Vue) you can access the website on `http://localhost:8080/`:
+
+You should see this screen:
 <img src="./Images/front_vue_forms.png" />
-<p>If you want to see when the fiels are incorrect click about details buttons.
+
+Want to see the validations? Open details below:
+
 <details>
 <img src="./Images/front_vue_forms_incorrect.png" />
 </details>
 
-<br><hr><br>
-
 ## Acknowledgment
 
-<p>Thanks <a href="https://github.com/vanessatrentin">Vanessa Trentin</a> and <a href="https://github.com/paulopmt1">Paulo Trentin</a> for the knwoledge learned in the challenge!</p>
+<p>Thanks <a href="https://github.com/vanessatrentin"></a> and <a href="https://github.com/paulopmt1">Paulo Trentin</a> for the knwoledge learned in the challenge!</p>
