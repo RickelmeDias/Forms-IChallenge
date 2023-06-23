@@ -1,4 +1,4 @@
-# Web Developer Formss Challenge (Symfony + Vue)
+# Web Developer Forms Challenge (Symfony + Vue)
 Helped and assisted by [Vanessa Trentin from Auryn](https://github.com/vanessatrentin) and [Paulo Trentin from Auryn](https://github.com/paulopmt1).
 
 ## About Challenge
